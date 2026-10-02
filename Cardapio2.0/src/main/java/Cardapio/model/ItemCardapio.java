@@ -1,4 +1,4 @@
-package Cardapio;
+package Cardapio.model;
 
 import java.math.BigDecimal;
 
